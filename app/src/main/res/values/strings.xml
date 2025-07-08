@@ -1,0 +1,15 @@
+<resources>
+    <string name="desc_menu">Menu latéral</string>
+    <string name="btn_load">Charger une sauvegarde</string>
+    <string name="btn_new_game">Nouvelle partie</string>
+    <string name="btn_continue">Continuer</string>
+    <string name="btn_test_rom">Test ROM (240pee)</string>
+    <string name="yoshi_egg">Œuf de Yoshi</string>
+    <string name="yoshi_egg_found">Œuf de Yoshi trouvé !</string>
+    
+    <string-array name="rewind_durations">
+        <item>5 secondes</item>
+        <item>10 secondes</item>
+        <item>20 secondes</item>
+    </string-array>
+</resources> 
